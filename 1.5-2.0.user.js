@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         1.5
+// @name         攀枝花学院自学考试
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  当视频进度条完成时自动进入下一课时视频播放
-// @author       You
-// @match        *://*/*
+// @author       Enghon
+// @match        *://panzhihua.iwdjy.com/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
